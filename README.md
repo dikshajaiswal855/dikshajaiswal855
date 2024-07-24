@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dikshajaiswal855@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Q_CWHu0qaN4asFo_o867zlcWoEWJ4-OQCNZoMCeyKqU/edit?usp=sharing](https://docs.google.com/document/d/1Q_CWHu0qaN4asFo_o867zlcWoEWJ4-OQCNZoMCeyKqU/edit?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1IH6W1-Hx0UBOmxRQpP9rQzzmiFQWrt07/view?usp=sharing
 
 - ⚡ Fun fact **I think I am funny**
 
