@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Diksha Jaiswal<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align='right' src="![image](https://github.com/user-attachments/assets/085eb090-2306-44e1-95bb-6483ebeafdc1)![Uploading image.png…]()
-"
+<img align='right' src="https://github.com/user-attachments/assets/085eb090-2306-44e1-95bb-6483ebeafdc1)![Uploading image.png…"
  width='200"'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshajaiswal855&label=Profile%20views&color=0e75b6&style=flat" alt="dikshajaiswal855" /> </p>
