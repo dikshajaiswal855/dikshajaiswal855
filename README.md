@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://diksha-portfolio-8vpg.vercel.app/](https://diksha-portfolio-8vpg-git-main-diksha-jaiswals-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://diksha-portfolio-8vpg-git-main-diksha-jaiswals-projects.vercel.app/)
 
 
 - 📫 How to reach me **dikshajaiswal855@gmail.com**
