@@ -11,7 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://diksha-portfolio-8vpg.vercel.app/](https://diksha-portfolio-8vpg.vercel.app/)
 
-- 💬 Ask me about **React,GSAP,HTML5, CSS, Javascript,Tailwind CSS.**
 
 - 📫 How to reach me **dikshajaiswal855@gmail.com**
 
