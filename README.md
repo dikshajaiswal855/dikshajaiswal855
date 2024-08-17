@@ -9,16 +9,13 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [My_Portfolio](https://diksha-portfolio-8vpg-git-main-diksha-jaiswals-projects.vercel.app/)
-
-
 - 📫 How to reach me **dikshajaiswal855@gmail.com**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1IH6W1-Hx0UBOmxRQpP9rQzzmiFQWrt07/view?usp=sharing
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
+<!-- - 👨‍💻 All of my projects are available at [My_Portfolio](https://diksha-portfolio-8vpg-git-main-diksha-jaiswals-projects.vercel.app/) -->
+<!-- - 📄 Know about my experiences https://drive.google.com/file/d/1IH6W1-Hx0UBOmxRQpP9rQzzmiFQWrt07/view?usp=sharing -->
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/diksha-jaiswal-b9374a234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diksha-jaiswal-b9374a234" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/diksha_jaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/diksha_jaiswal/" height="30" width="40" /></a>
