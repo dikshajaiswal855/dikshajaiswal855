@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshajaiswal855&label=Profile%20views&color=0e75b6&style=flat" alt="dikshajaiswal855" /> </p>
 
-- 🔭 I’m currently working on [GlamGait](https://glamgait-five.vercel.app/)
+- 🔭 I’m currently working as SDE at [QuokkaLabs](https://quokkalabs.com/)
 
-- 🌱 I’m currently learning **Backend**
+- 🔭 Past internship at: Media Urbana (Full Stack Development) , Oasis Infobyte (Frontend Development)
+  
+- 🌱 I’m a **Java Backend Developer**
 
 - 📫 How to reach me **dikshajaiswal855@gmail.com**
 
